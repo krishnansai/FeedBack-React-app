@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-one {
+    margin: 50px;
+}
+
+.sub button {
+    margin-left: 75%;
+}
+
+h2 {
+    color: rgb(169, 105, 228);
+}
+
+.full {
+    margin: 0px;
+}
+
+.d-flex {
+    margin: 5px 2%;
+}
